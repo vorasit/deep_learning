@@ -1,0 +1,16 @@
+# pip install -r requirements.txt
+
+#Python
+jupyterlab
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+Pillow
+opencv-python
+tqdm
+mlxtend
+openpyxl
+pydotplus
+#scikit-plot
